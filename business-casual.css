@@ -5,7 +5,7 @@
  */
 body {
   font-family: 'Lora';
-  background-image: linear-gradient(rgba(47, 23, 15, 0.07), rgba(47, 23, 15, 0.05)), url("../img/bg.jpg");
+  background-image: linear-gradient(rgba(173, 121, 171, 0.07), rgba(173, 121, 171, 0.05)), url("../img/bg.jpg");
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
@@ -88,7 +88,7 @@ p {
 }
 
 #mainNav .navbar-nav .nav-item.active .nav-link {
-  color: #5e9689;
+  color: #674f72;
 }
 
 @media (min-width: 992px) {
@@ -99,7 +99,7 @@ p {
     color: rgba(255, 255, 255, 0.4);
   }
   #mainNav .navbar-nav .nav-item.active .nav-link:hover {
-    color: #5e9689;
+    color: #674f72;
   }
 }
 
@@ -210,7 +210,7 @@ p {
 
 .list-hours .list-hours-item.today {
   font-weight: bold;
-  color: #5e9689;
+  color: #674f72;
 }
 
 @media (min-width: 992px) {
@@ -229,11 +229,11 @@ p {
 }
 
 .text-primary {
-  color: #5e9689 !important;
+  color: #674f72 !important;
 }
 
 .bg-primary {
-  background-color: #5e9689 !important;
+  background-color: #674f72 !important;
 }
 
 .btn {
@@ -241,13 +241,13 @@ p {
 }
 
 .btn-primary {
-  background-color: #5e9689;
-  border-color: #5e9689;
+  background-color: #674f72;
+  border-color: #674f72;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #54746d;
-  border-color: #54746d;
+  background-color: #b194b4;
+  border-color: #b194b4;
 }
 
 .font-weight-light {
