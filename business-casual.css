@@ -43,7 +43,7 @@ p {
 }
 
 .site-heading .site-heading-lower {
-  font-size: 3rem;
+  font-size: 1rem;
   font-weight: 100;
   line-height: 4rem;
 }
@@ -79,7 +79,7 @@ p {
 }
 
 #mainNav .navbar-brand {
-  color: #FFFFFF;
+  color: #ad79ab;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
